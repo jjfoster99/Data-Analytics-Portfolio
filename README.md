@@ -3,4 +3,5 @@ This repository is containing portfolio of data science and data analyst project
 
 # Data Analysis and Visualization with Python:
 
+[Student Performance EDA](student-performance-eda.ipynb)
 [Video Game Sales EDA](video-games-sales-eda.ipynb)
